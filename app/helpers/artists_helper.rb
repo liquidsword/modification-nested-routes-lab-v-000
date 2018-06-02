@@ -4,6 +4,6 @@ module ArtistsHelper
   end
 
   def artist_select
-    
+
   end
 end
